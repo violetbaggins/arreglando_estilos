@@ -19,4 +19,3 @@ Para la primer instancia, nos pide esto:
 1. En la sección Nuestra Historia y Nuestros Valores, etc,  Que el párrafo tenga 18 de tamaño y color #780e04
 1. El párrafo dentro del footer tiene que tener 16px de tamaño de letra y color blanco.
 
-Doc de ejercitación: https://docs.google.com/document/d/1iAOkvXqPYlRSuW57Sx9ohv0ymJlOTaSn-vRwv4lCrh4/edit?usp=sharing
